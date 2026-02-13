@@ -1,0 +1,12 @@
+D:\Priya\C#\Windows_Application\Assignment_02\MDV_Admimission_System\MDV_Admimission_System\bin\Debug\MDV_Admimission_System.exe.config
+D:\Priya\C#\Windows_Application\Assignment_02\MDV_Admimission_System\MDV_Admimission_System\bin\Debug\MDV_Admimission_System.exe
+D:\Priya\C#\Windows_Application\Assignment_02\MDV_Admimission_System\MDV_Admimission_System\bin\Debug\MDV_Admimission_System.pdb
+D:\Priya\C#\Windows_Application\Assignment_02\MDV_Admimission_System\MDV_Admimission_System\obj\Debug\MDV_Admimission_System.csproj.AssemblyReference.cache
+D:\Priya\C#\Windows_Application\Assignment_02\MDV_Admimission_System\MDV_Admimission_System\obj\Debug\MDV_Admimission_System.Frm_Add_Student_Details.resources
+D:\Priya\C#\Windows_Application\Assignment_02\MDV_Admimission_System\MDV_Admimission_System\obj\Debug\MDV_Admimission_System.frm_Login.resources
+D:\Priya\C#\Windows_Application\Assignment_02\MDV_Admimission_System\MDV_Admimission_System\obj\Debug\MDV_Admimission_System.Frm_Search_Student.resources
+D:\Priya\C#\Windows_Application\Assignment_02\MDV_Admimission_System\MDV_Admimission_System\obj\Debug\MDV_Admimission_System.Properties.Resources.resources
+D:\Priya\C#\Windows_Application\Assignment_02\MDV_Admimission_System\MDV_Admimission_System\obj\Debug\MDV_Admimission_System.csproj.GenerateResource.cache
+D:\Priya\C#\Windows_Application\Assignment_02\MDV_Admimission_System\MDV_Admimission_System\obj\Debug\MDV_Admimission_System.csproj.CoreCompileInputs.cache
+D:\Priya\C#\Windows_Application\Assignment_02\MDV_Admimission_System\MDV_Admimission_System\obj\Debug\MDV_Admimission_System.exe
+D:\Priya\C#\Windows_Application\Assignment_02\MDV_Admimission_System\MDV_Admimission_System\obj\Debug\MDV_Admimission_System.pdb
