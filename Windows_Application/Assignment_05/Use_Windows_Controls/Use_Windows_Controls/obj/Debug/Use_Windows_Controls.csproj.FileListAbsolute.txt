@@ -1,0 +1,10 @@
+D:\Priya\C#\Windows_Application\Assignment_05\Use_Windows_Controls\Use_Windows_Controls\bin\Debug\Use_Windows_Controls.exe.config
+D:\Priya\C#\Windows_Application\Assignment_05\Use_Windows_Controls\Use_Windows_Controls\bin\Debug\Use_Windows_Controls.exe
+D:\Priya\C#\Windows_Application\Assignment_05\Use_Windows_Controls\Use_Windows_Controls\bin\Debug\Use_Windows_Controls.pdb
+D:\Priya\C#\Windows_Application\Assignment_05\Use_Windows_Controls\Use_Windows_Controls\obj\Debug\Use_Windows_Controls.csproj.AssemblyReference.cache
+D:\Priya\C#\Windows_Application\Assignment_05\Use_Windows_Controls\Use_Windows_Controls\obj\Debug\Use_Windows_Controls.Properties.Resources.resources
+D:\Priya\C#\Windows_Application\Assignment_05\Use_Windows_Controls\Use_Windows_Controls\obj\Debug\Use_Windows_Controls.Use_Windows_Controls.resources
+D:\Priya\C#\Windows_Application\Assignment_05\Use_Windows_Controls\Use_Windows_Controls\obj\Debug\Use_Windows_Controls.csproj.GenerateResource.cache
+D:\Priya\C#\Windows_Application\Assignment_05\Use_Windows_Controls\Use_Windows_Controls\obj\Debug\Use_Windows_Controls.csproj.CoreCompileInputs.cache
+D:\Priya\C#\Windows_Application\Assignment_05\Use_Windows_Controls\Use_Windows_Controls\obj\Debug\Use_Windows_Controls.exe
+D:\Priya\C#\Windows_Application\Assignment_05\Use_Windows_Controls\Use_Windows_Controls\obj\Debug\Use_Windows_Controls.pdb
